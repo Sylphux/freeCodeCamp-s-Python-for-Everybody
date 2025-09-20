@@ -18,3 +18,7 @@ C3_Conditionals/01_pay_compute.py
 
 C3_Conditionals/02_scores.py
 - Gives a score based on the float provided.
+
+C4_Functions/01_scores_func.py
+- Same as above but the result is calculated in a dedicated function
+
